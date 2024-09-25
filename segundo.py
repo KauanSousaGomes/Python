@@ -1,4 +1,4 @@
-nota=5
+nota=8
 if nota>=6:
     print("Aprovado")
 else:
